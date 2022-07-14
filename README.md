@@ -3,3 +3,5 @@
 [https://github.com/ssangyongsportsorg/home/issue](https://github.com/ssangyongsportsorg/home/issues)
 # 關於html網站
 此主題是由雙龍體育自行設計的，並運行在vercel和azure
+# 如何建議修改html
+分叉此檔案進行修改
